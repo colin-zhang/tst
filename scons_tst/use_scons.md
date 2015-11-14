@@ -16,8 +16,11 @@ Program('main',['main.c','log.c'])
 ```
 ##other parameter
 clean 
+
 scons -c 
+
 indicate file
+
 scons -f
 
 #SConstruct file
