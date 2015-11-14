@@ -1,0 +1,2 @@
+Program('tst',Glob('*.c'))	
+
