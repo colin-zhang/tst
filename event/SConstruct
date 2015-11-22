@@ -1,0 +1,1 @@
+Program('ev_test','ev_test.c', LIBS = ['ev'], LIBPATH = ['/opt/dev/local/lib'], CPPPATH = ['/opt/dev/local/include'])
