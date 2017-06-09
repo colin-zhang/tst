@@ -180,7 +180,7 @@ void* load(void* arg)
     }
 
     while (g_running) {
-        if (core != 2) {
+        if (core == 30) {
             //snprintf(buf, sizeof(buf), "n=%lu", n);
             //printf("%s\n", buf);
             //g_map[n] = std::string(buf);
@@ -195,7 +195,7 @@ void* load(void* arg)
                 if (it == g_map.end()) {
                     printf("%s\n", "can not find 100");
                 } else {
-                    if ( n % 9999 == 0) {
+                    if ( n % 9999999 == 0) {
                         printf("core%02d:%s, n = %lu\n", g_core_num, it->second.c_str(), n);
                     }
                 }
