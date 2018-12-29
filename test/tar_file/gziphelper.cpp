@@ -1,6 +1,5 @@
 //
 //  Created by zhangm on 2017/7/5
-//  Copyright © 2017年 Meansec Tech Co.,Ltd. All rights reserved.
 //
 //reference [1]:
 //https://github.com/google/proto-quic/blob/master/src/third_party/zlib/google/compression_utils.cc

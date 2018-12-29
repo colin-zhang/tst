@@ -11,7 +11,7 @@ int main()
     int rc;
     SftpClient* sftp_client = new SftpClient();
 
-    rc = sftp_client->connect("192.168.11.24", 22, "root", "meansec@123");
+    rc = sftp_client->connect("192.168.11.24", 22, "root", "colin@123");
     assert(rc == 0);
 
     sftp_client->openFile("/opt/test.txt", Sftp_FLAG_WRITE|Sftp_FLAG_READ|Sftp_FLAG_CREAT|Sftp_FLAG_TRUNC, 0777);
