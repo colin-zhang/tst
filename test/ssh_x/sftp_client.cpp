@@ -1,6 +1,3 @@
-// Copyright (c) 2017 meansec.cn. All rights reserved.
-// Request by Hudefeng for UIM project
-// Design and Write by zhangm. zhangming@meansec.cn
 // 2017-05
 #include "sftp_client.h"
 
