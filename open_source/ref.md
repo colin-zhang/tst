@@ -1,6 +1,7 @@
 
 ##### libevent
-book: https://legacy.gitbook.com/book/aceld/libevent/details     
+libevent深入浅出: https://legacy.gitbook.com/book/aceld/libevent/details     
+libevent book:https://github.com/nmathewson/libevent-book    
 
 libevhtp: https://github.com/criticalstack/libevhtp      
 
