@@ -9,3 +9,6 @@ zookeeper:
 https://cloud.tencent.com/developer/article/1142948    
 https://www.w3cschool.cn/zookeeper/zookeeper_overview.html    
 
+##### redis客户端
+https://github.com/redis/hiredis     
+
