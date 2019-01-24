@@ -11,4 +11,8 @@ https://www.w3cschool.cn/zookeeper/zookeeper_overview.html
 
 ##### redis客户端
 https://github.com/redis/hiredis     
+图像界面:    
+https://github.com/luin/medis    
+
+redis-desktop-manager
 
